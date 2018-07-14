@@ -32,7 +32,7 @@ _**IB**_
 > 힘들때 웃는 자가 일류다
 ***
 
-```
+```java
 public static void main(String[] args){
    System.out.println("Hello");
 }
