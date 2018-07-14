@@ -11,7 +11,7 @@ This **Bold** Text
 _It_
 _**IB**_
 
-'inline code'
+`inline code`
 
 * Hello
 * Hello
@@ -28,3 +28,12 @@ _**IB**_
         1. Hello
         2. Hello
         3. Hello
+
+> 힘들때 웃는 자가 일류다
+***
+
+```
+public static void main(String[] args){
+   System.out.println("Hello");
+}
+```
